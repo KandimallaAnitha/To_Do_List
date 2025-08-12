@@ -1,30 +1,28 @@
+
+---
 # ✅ To Do List
 
-A simple and clean **To-Do List** web app to add, edit, and remove tasks — built to help you organize daily tasks quickly.
+A simple and clean to-do list web app to manage your daily tasks with ease.
 
 ---
 
-## Features
+## ✨ Features
 - ➕ Add new tasks
 - ✏️ Edit existing tasks
-- ✅ Mark tasks complete / incomplete
+- ✅ Mark tasks as complete or incomplete
 - 🗑️ Delete tasks
-- 💾 Local storage (or server) to persist your tasks
+- 💾 Save tasks in local storage
 
 ---
 
-## Demo
-(Replace with your live demo link if available)
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript (vanilla)
 
 ---
 
-## Tech Stack
-- HTML, CSS, JavaScript (vanilla)
-- Optional: localStorage for persistence
-
----
-
-## How to Run (locally)
-1. Clone the repo:
+## 🚀 How to Run Locally
+1. Clone the repository:
    ```bash
    git clone https://github.com/KandimallaAnitha/To_Do_List.git
